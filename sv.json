@@ -310,7 +310,7 @@
   "save_as_new_plan": "Spara som ny",
   "replace_existing_plan": "Ersätt existerande plan",
   "select_plan_to_replace": "Välj plan att ersätta",
-  "actual_access_token": "Tesla Access Token - kommer sluta fungera efter ett tag",
+  "actual_access_token": "Tesla Access Token - kommer sluta att fungera efter ett tag",
   "share_map_app": "Dela till karta",
   "select_tesla": "Välj din Tesla",
   "select_tesla_description": "Välj det fordon du vill ha livedata från",
